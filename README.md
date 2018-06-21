@@ -2,7 +2,7 @@
 
 ## What is this ?
 
-It's a simple adaptation of great library [Groupie](https://github.com/lisawray/groupie) to work together with fantastic library [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout).
+It's a simple library to make the libraries  Groupie](https://github.com/lisawray/groupie) and [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) work  together. 
 
 ## Todo
 
